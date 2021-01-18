@@ -14,6 +14,11 @@ export default makeStyles((theme) => ({
   title: {
     flexGrow: 1,
     alignItems: 'center',
+    color: '#3f6844',
+    fontSize: '40px',
+    fontWeight: 'bold',
+    letterSpacing: '-1px',
+    textAlign: 'center',
     display: 'flex',
     textDecoration: 'none',
   },
